@@ -26,3 +26,19 @@ Using the model, the features with the greatest statistical impact on price of a
 The model is not very accurate for this dataset. Not only is the error of the model very high, USD 260,920, but the assumptions of linearity are violated in this model. This indicates that another modeling technique may be more appropriate.
 
 Build quality, number of bathrooms, and number of floors in a house are the most statistically significant factors when it comes to increasing the sale price of a house.
+
+# Moving Forward
+
+In order to develop a more statistically accurate model, Henbart LLC could explore the following topics:
+
+1. Exploration of other modeling techniques that may be a better fit for the dataset
+2. Further exploration of possible errors in outliers in the dataset
+3. Add additional house entries to see if findings still hold true in a bigger dataset
+
+# For More Information
+
+The full analysis and process by which these conclusions were reached can be found in the Jupyter notebook or by reviewing the summary presentation.
+
+For additional questions, contact Emily Marsh: marshemily2@gmail.com
+
+# Repository Structure
