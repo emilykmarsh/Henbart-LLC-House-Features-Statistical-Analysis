@@ -22,19 +22,19 @@ A linear regression model was developed to help predict house values based on th
 
 # Results
 
-![Line Of Best Fit for Model 3](Images/Model3FittedValues.jpeg)
+![Line Of Best Fit for Model 3](Images/Model3FittedValues.jpg)
 
 After exploration of several iterations, the final linear regression model was reached by log transforming the dependent value of price to adjust the data set to adhere to the assumptions of linearity. The R Squared Value, the percentage of variance that is explained by the linear regression model, was **63.5%** with an error of **USD 260,920** when it comes to predicting the price of the house. 
 
-![HistModel3](Images/Model3Hist.jpeg)
+![HistModel3](Images/Model3Hist.jpg)
 
-![HomoModel3](Images/Model3Homoscedasticity.jpeg)
+![HomoModel3](Images/Model3Homoscedasticity.jpg)
 
-![QQModel3](Images/Model3QQPlot.jpeg)
+![QQModel3](Images/Model3QQPlot.jpg)
 
 Using histograms, qq-plots, pairplots, and scatterplots were used to interpret the fit of the final model. These data visualizations also served to confirm that the developed model does not violate the assumptions of linearity. 
 
-![TopThreeFeatures](Images/TopThreeFeatures.jpeg)
+![TopThreeFeatures](Images/TopThreeFeatures)
 
 Using the model, the features with the greatest statistical impact on price of a house were found to be **grade, number of bathrooms, and number of floors**. According to the model developed a unit increase in the grade i.e materials that go into the building of the house will yield an increase of **25.79%** By adding an extra bathroom, the sale price goes up by **9.64%** and by adding an extra floor, the sale price goes up by **8.34%**.
 
