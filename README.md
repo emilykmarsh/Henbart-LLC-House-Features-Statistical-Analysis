@@ -34,7 +34,7 @@ After exploration of several iterations, the final linear regression model was r
 
 Using histograms, qq-plots, pairplots, and scatterplots were used to interpret the fit of the final model. These data visualizations also served to confirm that the developed model does not violate the assumptions of linearity. 
 
-![TopThreeFeatures](Images/TopThreeFeatures)
+![TopThreeFeatures](Images/TopThreeFeatures.png)
 
 Using the model, the features with the greatest statistical impact on price of a house were found to be **grade, number of bathrooms, and number of floors**. According to the model developed a unit increase in the grade i.e materials that go into the building of the house will yield an increase of **25.79%** By adding an extra bathroom, the sale price goes up by **9.64%** and by adding an extra floor, the sale price goes up by **8.34%**.
 
